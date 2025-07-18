@@ -1,2 +1,2 @@
-# scentify
-Turn your spotify history into a perfume/cologne
+# brewsona
+Turn your spotify history into a coffee order
